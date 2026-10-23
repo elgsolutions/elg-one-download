@@ -17,6 +17,7 @@ Die Links zeigen immer auf die aktuelle Version. Danach aktualisiert sich ELG On
 **Windows:** `ELG-One-Setup.exe` doppelklicken. Erscheint „Der Computer wurde durch Windows geschützt“,
 auf **Weitere Informationen** und dann **Trotzdem ausführen** klicken. Administratorrechte sind nicht nötig.
 
-**macOS:** `ELG-One-mac.dmg` öffnen und ELG One in den Ordner „Programme“ ziehen.
+**macOS:** `ELG-One-mac.dmg` öffnen und ELG One in den Ordner „Programme“ ziehen. Meldet macOS beim ersten Start,
+dass die App nicht geöffnet werden kann: Systemeinstellungen → Datenschutz & Sicherheit → **Trotzdem öffnen**.
 
 Fragen: info@elgsolutions.at
